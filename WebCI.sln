@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCI", "WebCI\WebCI.csproj", "{72F36B91-4378-42E0-8DD1-57A90FB682A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCI.Tests", "WebCI.Tests\WebCI.Tests.csproj", "{7AEDB641-8F95-470F-A3E4-0904D4F28DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F36B91-4378-42E0-8DD1-57A90FB682A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F36B91-4378-42E0-8DD1-57A90FB682A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F36B91-4378-42E0-8DD1-57A90FB682A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F36B91-4378-42E0-8DD1-57A90FB682A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEDB641-8F95-470F-A3E4-0904D4F28DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEDB641-8F95-470F-A3E4-0904D4F28DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEDB641-8F95-470F-A3E4-0904D4F28DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEDB641-8F95-470F-A3E4-0904D4F28DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
